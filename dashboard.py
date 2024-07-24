@@ -100,7 +100,7 @@ def create_bottom5_df(df):
     return hrbottom5_df
 
 # PANGGIL DATASET
-hour_df = pd.read_csv("pages/hour_data.csv")
+hour_df = pd.read_csv("dashboard/hour_data.csv")
 
 # KERANGKA WEBSITE
 # cleaned
