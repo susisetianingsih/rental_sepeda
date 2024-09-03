@@ -1,5 +1,3 @@
-# Rental Sepedaku Dashboard 🚲
-
 ## ✨ Project Descriptions 
 <p>Rental Sepedaku is a dashboard that displays graphs related to data such as the number of rentals based on season, yearly, daily, etc. The dashboard was created using the Streamlit framework in Python. This project is a final project to complete the data science course at Dicoding Academy.</p>
 
