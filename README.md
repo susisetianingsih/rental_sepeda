@@ -7,8 +7,11 @@
 <p>Tools used in creating the system include:</p>
  
 A. **IDE:** Visual Studio Code is code editor with extensive development features.
+
 B. **Database:** Spreadsheet file is used to saving the data rental bycicle.
+
 C. **Programming Language:** Python is used to train the classification model.
+
 D. **Cloud Services/Deployment**: Cloud Streamlite is used to deploy and manage containerized web applications.
 
 ## 🎲 Setup environment
@@ -25,8 +28,8 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-## ⚙️ Cara Run
+## ⚙️ How to Use?
 
-1. Pastikan sudah instalasi requirements.txt
-2. Arahkan direktori command prompt ke file dashboard.py
-3. Terakhir run streamlit app
+1. Make sure requirements.txt is installed.
+2. Point command prompt direktory to dashboard.py file
+3. Finally run streamlit app
